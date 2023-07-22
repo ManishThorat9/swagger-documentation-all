@@ -1,0 +1,19 @@
+{
+  host: 'localhost:4000',
+  connection: 'keep-alive',
+  'content-length': '804199',
+  'sec-ch-ua': '"Not.A/Brand";v="8", "Chromium";v="114", "Microsoft Edge";v="114"',
+  accept: 'multipart/form-data',
+  'content-type': 'multipart/form-data; boundary=----WebKitFormBoundaryA6iPIpMw0AFAVkDO',
+  'sec-ch-ua-mobile': '?0',
+  'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.82',
+  auth: 'manish',
+  'sec-ch-ua-platform': '"Windows"',
+  origin: 'http://localhost:4000',
+  'sec-fetch-site': 'same-origin',
+  'sec-fetch-mode': 'cors',
+  'sec-fetch-dest': 'empty',
+  referer: 'http://localhost:4000/api-docs/',
+US;q=0.8',
+  cookie: 'Pycharm-30cbd8a1=cbbd8753-248c-4f9f-bd35-29997e1f2efe; ajs_user_id=935257d3-1374-58fe-86b9-ea581d075c06'
+}
